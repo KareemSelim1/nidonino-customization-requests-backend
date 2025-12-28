@@ -7,7 +7,11 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.22.1",
     "node-fetch": "^3.3.2"
-  }
+  },
+  "description": "Backend for Shopify app proxy to create Draft Orders for customization requests.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
